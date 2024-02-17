@@ -1894,6 +1894,16 @@ blockquote.has-text-align-left {
     --ast-global-color-6: #000000;
     --ast-global-color-7: #4B4F58;
     --ast-global-color-8: #F6F7F8;
+    
+    --ast-global-color-0: #8AC44B;
+    --ast-global-color-1: #699639;
+    --ast-global-color-2: #14261C;
+    --ast-global-color-3: #4E5652;
+    --ast-global-color-4: #F4F6F4;
+    --ast-global-color-5: #FFFFFF;
+    --ast-global-color-6: #000000;
+    --ast-global-color-7: #4B4F58;
+    --ast-global-color-8: #F6F7F8;
 }
 
 :root {
@@ -3582,6 +3592,16 @@ body.admin-bar.ast-primary-sticky-header-active .ast-mobile-popup-drawer .ast-mo
 
     --e-global-color-astglobalcolor0: #1BAE70;
     --e-global-color-astglobalcolor1: #06752E;
+    --e-global-color-astglobalcolor2: #14261C;
+    --e-global-color-astglobalcolor3: #4E5652;
+    --e-global-color-astglobalcolor4: #F4F6F4;
+    --e-global-color-astglobalcolor5: #FFFFFF;
+    --e-global-color-astglobalcolor6: #000000;
+    --e-global-color-astglobalcolor7: #4B4F58;
+    --e-global-color-astglobalcolor8: #F6F7F8;
+
+    --e-global-color-astglobalcolor0: #8AC44B;
+    --e-global-color-astglobalcolor1: #699639;
     --e-global-color-astglobalcolor2: #14261C;
     --e-global-color-astglobalcolor3: #4E5652;
     --e-global-color-astglobalcolor4: #F4F6F4;
